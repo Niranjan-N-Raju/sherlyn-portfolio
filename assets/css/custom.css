@@ -1,4 +1,102 @@
 .logo img {
-    height: 23px;
-    width: 100px;
+  height: 23px;
+  width: 100px;
+}
+
+.left-line {
+  border-top: 1px solid #8a8a8a;
+}
+
+.articles {
+  display: flex;
+}
+
+.one {
+  flex-basis: 33.33%;
+}
+
+.three {
+  flex-basis: 66.66%;
+  padding-left: 40px;
+}
+
+.heading {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 38px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+
+.description {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #5b5b5b;
+  margin-top: 8px;
+}
+
+.more {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 33px;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #252525;
+  text-decoration: underline;
+  margin-top: 8px;
+}
+
+.dashed-border {
+  border-top: 1px dashed #ccc;
+  margin: 60px 0;
+}
+
+.about-me.three {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer {
+  display: flex;
+}
+
+.short_info {
+  width: 100%;
+  height: auto;
+  clear: both;
+  float: left;
+  display: flex;
+  justify-content: center;
+}
+.short_info > ul {
+  margin: 0 0 0 -50px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.short_info > ul > li {
+  margin: 0 8px;
+  color: #000;
+}
+
+.shane_tm_copyright .inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+}
+.footer-icons img {
+    height: 36px;
+    width: 36px;
 }

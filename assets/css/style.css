@@ -860,9 +860,8 @@ body.loaded .overlay_effect:after {
   height: auto;
   clear: both;
   float: left;
-  background-color: #f9f9f9;
-  padding: 150px 0 100px;
-  margin-bottom: 138px;
+  background-color: #fff;
+  padding: 100px 0 100px;
 }
 .shane_tm_portfolio .portfolio_list {
   width: 100%;
@@ -1437,7 +1436,7 @@ body.loaded .overlay_effect:after {
   height: auto;
   clear: both;
   float: left;
-  background-color: #f9f9f9;
+  background-color: #fff;
   padding: 150px 0;
 }
 .shane_tm_testimonials .testimonials_inner {
@@ -1816,8 +1815,9 @@ body.loaded .overlay_effect:after {
   height: auto;
   clear: both;
   float: left;
-  background-color: #000;
-  padding: 65px 0;
+  background-color: #fff;
+  padding: 35px 0;
+  border-top: 1px solid #ccc;
 }
 .shane_tm_copyright .inner {
   width: 100%;
@@ -1828,11 +1828,11 @@ body.loaded .overlay_effect:after {
 }
 .shane_tm_copyright p {
   font-family: poppins;
-  color: #fff;
+  color: #000;
 }
 .shane_tm_copyright a {
   text-decoration: none;
-  color: #fff;
+  color: #000;
 }
 .shane_tm_contact_popup {
   position: absolute;
@@ -2401,7 +2401,7 @@ body.dark .shane_tm_settings .cursor li .svg,
 }
 @media (max-width: 1600px) {
   .container {
-    max-width: 1070px;
+    max-width: 1200px;
   }
   .shane_tm_hero .content h3 {
     font-size: 55px;
