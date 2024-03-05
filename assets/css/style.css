@@ -5,7 +5,7 @@ html {
   margin: 0;
 }
 body {
-  font-family: roboto;
+  font-family: 'Montserrat';
   font-size: 15px;
   line-height: 30px;
   letter-spacing: 0.5px;
@@ -61,7 +61,7 @@ h5,
 h6 {
   font-weight: 500;
   line-height: 1.4;
-  font-family: poppins;
+  font-family: 'Montserrat';
   color: #000;
 }
 h1 {
@@ -372,7 +372,7 @@ h6 {
   color: #000;
   display: inline-block;
   padding: 4px 0;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 500;
 }
 .shane_tm_mobile_menu .logo img {
@@ -437,7 +437,7 @@ h6 {
   text-decoration: none;
   color: #000;
   font-weight: 500;
-  font-family: poppins;
+  font-family: 'Montserrat';
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -503,7 +503,7 @@ h6 {
 .shane_tm_hero .content h3 {
   position: relative;
   font-size: 72px;
-  font-family: poppins;
+  font-family: 'Montserrat';
   text-transform: uppercase;
   font-weight: 900;
   color: #000;
@@ -519,7 +519,7 @@ h6 {
 .shane_tm_hero .content .job {
   font-weight: 500;
   font-size: 17px;
-  font-family: roboto;
+  font-family: 'Montserrat';
   margin-bottom: 25px;
   float: left;
   position: relative;
@@ -707,7 +707,7 @@ body.loaded .overlay_effect:after {
 .shane_tm_classic_hero .name_wrap h3 {
   position: relative;
   font-size: 72px;
-  font-family: poppins;
+  font-family: 'Montserrat';
   text-transform: uppercase;
   font-weight: 900;
   color: #000;
@@ -761,7 +761,7 @@ body.loaded .overlay_effect:after {
 .shane_tm_about .experience .year {
   font-size: 80px;
   font-weight: 800;
-  font-family: poppins;
+  font-family: 'Montserrat';
   color: #fff;
   margin-bottom: 3px;
   line-height: 1;
@@ -770,7 +770,7 @@ body.loaded .overlay_effect:after {
 .shane_tm_about .experience .text {
   color: #fff;
   font-style: italic;
-  font-family: poppins;
+  font-family: 'Montserrat';
   opacity: 0.7;
 }
 .shane_tm_about .right {
@@ -785,7 +785,7 @@ body.loaded .overlay_effect:after {
 }
 .shane_tm_title h3 {
   font-weight: 800;
-  font-family: poppins;
+  font-family: 'Montserrat';
 }
 .shane_tm_title span {
   display: inline-block;
@@ -795,7 +795,7 @@ body.loaded .overlay_effect:after {
   font-weight: 600;
   font-size: 12px;
   color: #333;
-  font-family: poppins;
+  font-family: 'Montserrat';
   letter-spacing: 0;
   margin-bottom: 15px;
 }
@@ -819,7 +819,7 @@ body.loaded .overlay_effect:after {
   display: inline-block;
   padding: 13px 48px;
   border: 2px solid #000;
-  font-family: poppins;
+  font-family: 'Montserrat';
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -852,7 +852,7 @@ body.loaded .overlay_effect:after {
 .shane_tm_portfolio .portfolio_filter ul li a {
   text-decoration: none;
   color: #000;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 500;
 }
 .shane_tm_portfolio {
@@ -918,7 +918,7 @@ body.loaded .overlay_effect:after {
   background: #fff;
   font-size: 18px;
   padding: 5px 15px;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 600;
   color: #000;
   position: fixed;
@@ -936,7 +936,7 @@ body.loaded .overlay_effect:after {
   top: 100%;
   left: 0;
   margin-top: -10px;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-size: 15px;
   font-weight: 500;
   padding: 5px 15px;
@@ -957,7 +957,7 @@ body.loaded .overlay_effect:after {
   font-weight: 600;
 }
 .shane_tm_portfolio .mobile_title span {
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 500;
 }
 .shane_tm_modalbox {
@@ -1233,7 +1233,7 @@ body.loaded .overlay_effect:after {
   width: 100%;
   display: block;
   text-align: left;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 500;
   color: #333;
 }
@@ -1367,7 +1367,7 @@ body.loaded .overlay_effect:after {
 }
 .shane_tm_business_video .text {
   color: #fff;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-size: 30px;
   max-width: 600px;
   margin: 0 auto;
@@ -1387,7 +1387,7 @@ body.loaded .overlay_effect:after {
   display: inline-block;
   padding: 13px 48px;
   border: 2px solid #fff;
-  font-family: poppins;
+  font-family: 'Montserrat';
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -1512,7 +1512,7 @@ body.loaded .overlay_effect:after {
   position: relative;
 }
 .shane_tm_testimonials .right .short .author {
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-size: 18px;
   color: #000;
   font-weight: 600;
@@ -1639,7 +1639,7 @@ body.loaded .overlay_effect:after {
 }
 .shane_tm_news .news_list ul li .details .date {
   text-transform: uppercase;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-size: 12px;
   color: #767676;
   font-style: italic;
@@ -1771,7 +1771,7 @@ body.loaded .overlay_effect:after {
   display: inline-block;
   padding: 13px 48px;
   border: 2px solid #fff;
-  font-family: poppins;
+  font-family: 'Montserrat';
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -1827,7 +1827,7 @@ body.loaded .overlay_effect:after {
   text-align: center;
 }
 .shane_tm_copyright p {
-  font-family: poppins;
+  font-family: 'Montserrat';
   color: #000;
 }
 .shane_tm_copyright a {
@@ -1964,7 +1964,7 @@ body.loaded .overlay_effect:after {
   padding: 50px 20px;
 }
 .shane_tm_modalbox .short_info > ul > li p {
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 500;
   color: #fff;
 }
@@ -2083,7 +2083,7 @@ body.loaded .overlay_effect:after {
   position: absolute;
   bottom: 100px;
   left: 0;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-size: 13px;
   transform: rotateZ(90deg);
   text-transform: uppercase;
@@ -2160,7 +2160,7 @@ body.loaded .overlay_effect:after {
 }
 .shane_tm_settings .title {
   color: #fff;
-  font-family: poppins;
+  font-family: 'Montserrat';
   font-weight: 600;
   position: relative;
   display: inline-block;
@@ -2328,7 +2328,7 @@ body.dark .shane_tm_settings .cursor li .svg,
   color: #000;
   font-size: 13px;
   font-weight: 600;
-  font-family: poppins;
+  font-family: 'Montserrat';
   display: block;
   position: relative;
   top: 2px;
